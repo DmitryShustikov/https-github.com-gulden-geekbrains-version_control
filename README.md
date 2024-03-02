@@ -27,7 +27,7 @@ git push --set-upstream origin updatereadme
 GIT_SSH_COMMAND='ssh -i ~/.ssh/user-private-key -o IdentitiesOnly=yes' git push git@github.com:gulden-geekbrains/version_control.git
 ```
 
-вместо *user-private-key* подставьте свой ключ
+вместо *user-private-key* подставьте свой ключ.
 
 Можно прописать настройки для подсоединения по ssh
 ```sh
